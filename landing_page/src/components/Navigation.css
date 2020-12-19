@@ -1,0 +1,37 @@
+.deal{
+    display: inline-block;
+    background-position: -75px -354px;
+    background-image: url("../icons.png");
+    background-size: 405px 379px;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+    text-indent: -1000%
+}
+.about{
+    display: inline-block;
+    background-position: -275px -329px;
+    background-image: url("../icons.png");
+    background-size: 405px 379px;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+}
+.term{
+    display: inline-block;
+    background-position: -225px -329px;
+    background-image: url("../icons.png");
+    background-size: 405px 379px;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+}
+.contact{
+    display: inline-block;
+    background-position: -25px -354px;
+    background-image: url("../icons.png");
+    background-size: 405px 379px;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+}
